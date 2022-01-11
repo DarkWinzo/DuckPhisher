@@ -1,5 +1,5 @@
 
-![20200316_174935_0000](https://i.ibb.co/X2PPBG5/index.jpg)
+![full](https://i.ibb.co/X2PPBG5/index.jpg)
 
 
 ### SCREENSHOT ( KALI )
