@@ -1,5 +1,5 @@
 
-![20200316_174935_0000](https://user-images.githubusercontent.com/55870659/79133536-08bb1700-7d61-11ea-84a0-8e7fcbb70392.png)
+![20200316_174935_0000](https://i.ibb.co/X2PPBG5/index.jpg)
 
 
 ### SCREENSHOT ( KALI )
