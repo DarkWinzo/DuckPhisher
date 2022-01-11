@@ -15,7 +15,7 @@ banner() {
  echo -e $'\e[1;33m\e[0m\e[1;37m ██████╔╝╚██████╔╝╚██████╗██║  ██╗ \e[0m''\e[1;33m\e[0m\e[1;32m  ██║     ██║  ██║██║███████║██║  ██║   \e[0m'
  echo -e $'\e[1;33m\e[0m\e[1;37m ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝ \e[0m''\e[1;33m\e[0m\e[1;32m  ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝   Dₐᵣₖ Wᵢₙzₒ  \e[0m'
   echo""    
-  echo -e $'\e[1;33m\e[0m\e[1;33m    ███Dₐᵣₖ Wᵢₙzₒ███\e[0m'"\e[96m██████████████"'\e[1;33m\e[0m\e[1;31m                     \e[0m' '\e[1;32m\e[0m\e[1;32m  BEST OTP BYPASS PHISHING TOOL IN WORLD \e[0m''\e[1;37m\e[0m\e[1;37m [v 1.0] \e[0m'                                       
+  echo -e $'\e[1;33m\e[0m\e[1;33m    ███˜”*°•.˜”*°• Developer •°*”˜.•°*”˜███\e[0m'"\e[96m████Dₐᵣₖ Wᵢₙzₒ████"'\e[1;33m\e[0m\e[1;31m                     \e[0m' '\e[1;32m\e[0m\e[1;32m  BEST OTP BYPASS PHISHING TOOL IN WORLD \e[0m''\e[1;37m\e[0m\e[1;37m [v 1.0] \e[0m'                                       
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m  [ \e[0m\e[1;32m Follow on Github :- https://github.com/DarkWinzo/DuckPhisher \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
