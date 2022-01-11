@@ -3,7 +3,7 @@
 
 
 ### SCREENSHOT ( KALI )
-![full](https://user-images.githubusercontent.com/55870659/79147250-a7f80280-7d91-11ea-894a-d7d685a6e8cb.png)
+![full](https://i.ibb.co/x1WXjwy/Screenshot-from-2022-01-11-11-53-17.png)
 
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
